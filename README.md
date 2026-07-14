@@ -21,7 +21,7 @@ CLIP model that needs no training at all.
 
 ## Dataset
 
-An image library of wild animals found in Saudi Arabia's environment, compiled
+An image library of wild animals found in Saudi Arabia's environment + some more, compiled
 from Google Images (**~2 GB**). Because the images were scraped from Google
 Images, the dataset is provided **for research purposes only**.
 
