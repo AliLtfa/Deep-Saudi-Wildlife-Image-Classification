@@ -5,7 +5,7 @@ environment. One is a convolutional neural network (CNN) trained from scratch on
 a labeled image dataset; the other is a zero-shot classifier built on OpenAI's
 CLIP model that needs no training at all.
 
-> **Note:** This is a pre-LLM-era project completed in **2023**. The
+> **Note:** This is an old project completed in **2023**. The
 > notebooks are kept as-is for reference and learning purposes.
 
 ---
